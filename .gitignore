@@ -1,0 +1,9 @@
+# Ignore files
+debugger.css
+gulpfile.js
+package-lock.json
+package.json
+
+# Ignore dev folder(s)
+node_modules/
+dist/
